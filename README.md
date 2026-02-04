@@ -3,10 +3,10 @@
 This project predicts temperature using Machine Learning (Random Forest) based on weather parameters such as humidity, wind speed, and atmospheric pressure.
 
 ## 🔗 Live Project Link
-👉 https://ai-driven-weather-temperature-prediction-rhfp.onrender.com
+👉 https://90090ash.github.io/AI-Driven-Weather-Temperature-Prediction-System-Using-Machine-Learning---Frontend/
 
 ## 🔗 API Endpoint
-👉 https://ai-driven-weather-temperature-prediction-rhfp.onrender.com/predict
+👉 https://ai-driven-weather-temperature-prediction-rhfp.onrender.com
 
 ## 🛠️ Technologies Used
 - Python
