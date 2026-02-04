@@ -15,7 +15,7 @@ async function predictTemperature() {
     // ⏳ 5 second futuristic delay
     setTimeout(async () => {
         try {
-            const response = await fetch("https://ai-driven-weather-temperature-prediction.onrender.com/predict", {
+            const response = await fetch("https://ai-driven-weather-temperature-prediction-rhfp.onrender.com/predict", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
@@ -40,4 +40,5 @@ async function predictTemperature() {
             document.getElementById("predictBtn").disabled = false;
         }
     }, 5000);
+
 }
